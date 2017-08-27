@@ -1,2 +1,2 @@
 # zchat
-Reakky shitty chat application using ZeroMQ
+Really shitty chat application using ZeroMQ
